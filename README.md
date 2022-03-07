@@ -1,9 +1,8 @@
-# PBI_portfolio
-Portfolio Power BI
+# Portfolio Power BI
 
-Alguns dashboards criados para estudo
+## Alguns dashboards criados para estudo
 
-Ordem cronológica:
+#### Ordem cronológica:
 
 1: projeto_vendas_ms.pdf
 Dashboard de vendas loja de departamentos
